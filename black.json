@@ -1,1 +1,6 @@
-hello
+{
+	"Blacklisted": [
+		"PersonCom1",
+    "tman1541"
+	]
+}
